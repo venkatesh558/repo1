@@ -1,0 +1,5 @@
+#!/bin/bash
+
+useradd ramesh 
+useradd raju
+----
